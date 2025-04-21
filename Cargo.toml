@@ -10,7 +10,7 @@ edition = "2021"
 license-file = "LICENSE"
 
 [dependencies]
-clap = { version = "4.5.31", features = ["derive"] }
+clap = { version = "4.5.37", features = ["derive"] }
 regex = "1.11.1"
 sysinfo = "0.33.1"
 uname = "0.1.1"
